@@ -4,7 +4,7 @@ export default defineNuxtConfig({
     [
       '@storyblok/nuxt',
       {
-        accessToken: 'W1vLyxT5rQ15jBpANjnv0gtt',
+        accessToken: 'o1pS8txNJW6Oq4V7mWK2bwtt',
         // apiOptions: {
         //   region: "us" // When creating your space in US region (EU default)
         // }
@@ -12,4 +12,4 @@ export default defineNuxtConfig({
     ],
     '@nuxtjs/tailwindcss',
   ],
-})
+});
